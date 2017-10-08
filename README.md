@@ -1,2 +1,2 @@
 # AddonShelf
-An WoW Addon Manager and just an Addon Manager
+A WoW Addon Manager and just an Addon Manager
